@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top Expert Cleaning Services - Dubai</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans pb-20">
+
+  <header class="bg-white shadow-sm sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+      <div class="flex items-center space-x-2">
+        <i class="fa-solid font-sparkles text-blue-600 text-2xl"></i>
+        <span class="font-bold text-xl text-gray-900 tracking-tight">Top Expert Cleaning</span>
+      </div>
+      <a href="https://wa.me/971551212833?text=Hello!%20I%20would%20like%20to%20inquire%20about%20your%20cleaning%20services." 
+         target="_blank" 
+         class="bg-green-500 hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-full text-sm flex items-center space-x-2 transition shadow">
+        <i class="fa-brands fa-whatsapp text-lg"></i>
+        <span class="hidden sm:inline">WhatsApp Us</span>
+      </a>
+    </div>
+  </header>
+
+  <section class="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-12 px-4 text-center">
+    <div class="max-w-3xl mx-auto">
+      <span class="bg-blue-500 text-blue-100 text-xs font-semibold uppercase px-3 py-1 rounded-full inline-block mb-3">
+        ⭐ 4.9 Rated in Dubai (Al Quoz)
+      </span>
+      <h1 class="text-3xl sm:text-5xl font-extrabold mb-4 leading-tight">
+        Professional Deep & Home Cleaning Services in Dubai
+      </h1>
+      <p class="text-blue-100 text-base sm:text-lg mb-8">
+        Fast, reliable, and thorough cleaning for villas, apartments, sofas, and offices.
+      </p>
+      <a href="#packages" 
+         class="bg-white text-blue-700 font-bold px-6 py-3 rounded-xl shadow-lg hover:bg-blue-50 transition inline-block">
+        View Packages & Pricing
+      </a>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-2xl font-bold text-center mb-8">Our Core Services</h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+      
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 text-center">
+        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-3">
+          <i class="fa-solid fa-broom text-xl"></i>
+        </div>
+        <h3 class="font-bold text-base mb-1">Deep Cleaning</h3>
+        <p class="text-xs text-gray-500">Villas, flats & move-in/out</p>
+      </div>
+
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 text-center">
+        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-3">
+          <i class="fa-solid fa-couch text-xl"></i>
+        </div>
+        <h3 class="font-bold text-base mb-1">Sofa & Carpet</h3>
+        <p class="text-xs text-gray-500">Shampooing & stain removal</p>
+      </div>
+
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 text-center">
+        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-3">
+          <i class="fa-solid fa-faucet-drip text-xl"></i>
+        </div>
+        <h3 class="font-bold text-base mb-1">Water Tank</h3>
+        <p class="text-xs text-gray-500">Sanitization & washing</p>
+      </div>
+
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-gray-100 text-center">
+        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-3">
+          <i class="fa-solid fa-building text-xl"></i>
+        </div>
+        <h3 class="font-bold text-base mb-1">Office Cleaning</h3>
+        <p class="text-xs text-gray-500">Commercial spaces & retail</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section id="packages" class="bg-gray-100 py-12 px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-2xl font-bold text-center mb-2">Popular Service Packages</h2>
+      <p class="text-center text-gray-600 text-sm mb-8">Tap any package to book instantly via WhatsApp</p>
+
+      <div class="grid md:grid-cols-3 gap-6">
+
+        <div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Standard Home Clean</h3>
+            <div class="text-3xl font-extrabold text-blue-600 mb-4">149 <span class="text-sm font-normal text-gray-500">AED</span></div>
+            <ul class="text-sm text-gray-600 space-y-3 mb-6">
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Dusting & Vacuuming</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Kitchen & Bathroom Sanitize</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Trash Removal</li>
+            </ul>
+          </div>
+          <a href="https://wa.me/971551212833?text=Hi!%20I%20want%20to%20book%20the%20Standard%20Home%20Clean%20(149%20AED)." 
+             target="_blank" 
+             class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-3 rounded-xl text-center block transition shadow">
+            Book via WhatsApp
+          </a>
+        </div>
+
+        <div class="bg-white rounded-2xl p-6 shadow-md border-2 border-blue-500 relative flex flex-col justify-between">
+          <span class="bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-full absolute -top-3 right-6">MOST POPULAR</span>
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Full Villa/Apt Deep Clean</h3>
+            <div class="text-3xl font-extrabold text-blue-600 mb-4">399 <span class="text-sm font-normal text-gray-500">AED</span></div>
+            <ul class="text-sm text-gray-600 space-y-3 mb-6">
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Full Deep Cleaning & Scrubbing</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Appliance Deep Cleaning</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Window & Balcony Cleaning</li>
+            </ul>
+          </div>
+          <a href="https://wa.me/971551212833?text=Hi!%20I%20want%20to%20book%20the%20Full%20Deep%20Clean%20(399%20AED)." 
+             target="_blank" 
+             class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 rounded-xl text-center block transition shadow">
+            Book via WhatsApp
+          </a>
+        </div>
+
+        <div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Sofa & Upholstery Care</h3>
+            <div class="text-3xl font-extrabold text-blue-600 mb-4">199 <span class="text-sm font-normal text-gray-500">AED</span></div>
+            <ul class="text-sm text-gray-600 space-y-3 mb-6">
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Deep Extraction Shampooing</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Tough Stain & Odor Removal</li>
+              <li class="flex items-center"><i class="fa-solid fa-check text-green-500 mr-2"></i> Quick-Drying Technique</li>
+            </ul>
+          </div>
+          <a href="https://wa.me/971551212833?text=Hi!%20I%20want%20to%20book%20Sofa%20Cleaning%20(199%20AED)." 
+             target="_blank" 
+             class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-3 rounded-xl text-center block transition shadow">
+            Book via WhatsApp
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <div class="fixed bottom-4 left-0 right-0 px-4 z-50 sm:hidden">
+    <a href="https://wa.me/971551212833?text=Hello!%20I%20would%20like%20to%20get%20a%20free%20quote%20for%20cleaning." 
+       target="_blank" 
+       class="bg-green-500 text-white font-bold py-3 px-6 rounded-full shadow-2xl flex items-center justify-center space-x-2 w-full text-center">
+      <i class="fa-brands fa-whatsapp text-2xl"></i>
+      <span>Get Instant Quote on WhatsApp</span>
+    </a>
+  </div>
+
+  <footer class="bg-gray-900 text-gray-400 py-6 text-center text-xs px-4">
+    <p>Top Expert Cleaning Services • Al Quoz Industrial Area 3, Dubai, UAE</p>
+    <p class="mt-1">Phone: +971 55 121 2833</p>
+  </footer>
+
+</body>
+</html>
